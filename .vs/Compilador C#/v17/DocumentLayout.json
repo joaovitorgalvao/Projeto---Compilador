@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|c:\\newton paiva\\ciencia da computacao\\8 periodo\\compiladores\\projeto\\joaovitorgalvao\\projeto---compilador\\control\\semanticanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|solutionrelative:control\\semanticanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|c:\\newton paiva\\ciencia da computacao\\8 periodo\\compiladores\\projeto\\joaovitorgalvao\\projeto---compilador\\control\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|solutionrelative:control\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|c:\\newton paiva\\ciencia da computacao\\8 periodo\\compiladores\\projeto\\joaovitorgalvao\\projeto---compilador\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|c:\\newton paiva\\ciencia da computacao\\8 periodo\\compiladores\\projeto\\joaovitorgalvao\\projeto---compilador\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|c:\\newton paiva\\ciencia da computacao\\8 periodo\\compiladores\\projeto\\joaovitorgalvao\\projeto---compilador\\control\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|solutionrelative:control\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|c:\\newton paiva\\ciencia da computacao\\8 periodo\\compiladores\\projeto\\joaovitorgalvao\\projeto---compilador\\control\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|solutionrelative:control\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|c:\\newton paiva\\ciencia da computacao\\8 periodo\\compiladores\\projeto\\joaovitorgalvao\\projeto---compilador\\control\\astnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8506FB82-ED15-4FFC-B16F-2B8E8D2C0F8D}|Compilador C#.csproj|solutionrelative:control\\astnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AstNode.cs",
+              "DocumentMoniker": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\AstNode.cs",
+              "RelativeDocumentMoniker": "Control\\AstNode.cs",
+              "ToolTip": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\AstNode.cs",
+              "RelativeToolTip": "Control\\AstNode.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:46:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\Lexer.cs",
+              "RelativeDocumentMoniker": "Control\\Lexer.cs",
+              "ToolTip": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\Lexer.cs",
+              "RelativeToolTip": "Control\\Lexer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:37:22.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\Parser.cs",
+              "RelativeDocumentMoniker": "Control\\Parser.cs",
+              "ToolTip": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\Parser.cs",
+              "RelativeToolTip": "Control\\Parser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:44:41.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SemanticAnalyzer.cs",
+              "DocumentMoniker": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\SemanticAnalyzer.cs",
+              "RelativeDocumentMoniker": "Control\\SemanticAnalyzer.cs",
+              "ToolTip": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\SemanticAnalyzer.cs",
+              "RelativeToolTip": "Control\\SemanticAnalyzer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:48:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\Token.cs",
+              "RelativeDocumentMoniker": "Control\\Token.cs",
+              "ToolTip": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\Control\\Token.cs",
+              "RelativeToolTip": "Control\\Token.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:54:58.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "View\\Form1.cs",
+              "ToolTip": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\View\\Form1.cs",
+              "RelativeToolTip": "View\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAtwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:39:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "View\\Form1.cs",
+              "ToolTip": "C:\\Newton Paiva\\Ciencia da Computacao\\8 Periodo\\Compiladores\\Projeto\\joaovitorgalvao\\Projeto---Compilador\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "View\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:56:47.756Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

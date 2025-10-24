@@ -9,3 +9,15 @@ C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\Codigo Font
 C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\Codigo Fonte\Compilador C#\obj\Debug\Compilador C#.exe
 C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\Codigo Fonte\Compilador C#\obj\Debug\Compilador C#.pdb
 C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\Codigo Fonte\Compilador C#\obj\Debug\Compilador C#.exe.config
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\bin\Debug\Compilador C#.exe.config
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\bin\Debug\Compilador C#.exe
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\bin\Debug\Compilador C#.pdb
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador C#.csproj.AssemblyReference.cache
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador C#.exe.config
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador_C_.Form1.resources
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador_C_.FrmAcesso.resources
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador_C_.Properties.Resources.resources
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador C#.csproj.GenerateResource.cache
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador C#.csproj.CoreCompileInputs.cache
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador C#.exe
+C:\Newton Paiva\Ciencia da Computacao\8 Periodo\Compiladores\Projeto\joaovitorgalvao\Projeto---Compilador\obj\Debug\Compilador C#.pdb
