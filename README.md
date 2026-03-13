@@ -90,24 +90,4 @@ Traduz o AST em código intermediário ou executável.
 
 ## 👤 Autor
 
-**João Vitor Galvão**
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-1. Fazer um fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Fazer commit das mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Fazer push para a branch (`git push origin feature/MinhaFeature`)
-5. Abrir um Pull Request
-
-## 💡 Próximas Melhorias
-
-- [ ] Suporte a mais tipos de dados
-- [ ] Otimizações de código
-- [ ] Melhor tratamento de erros
-- [ ] Documentação das classes principais
+**João Vitor Galvão Silva**
